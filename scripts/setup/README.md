@@ -18,7 +18,7 @@ One-command setup for AI-DLC rules across all supported coding agents.
 cd /path/to/your/project
 
 # Run the setup script (one of these):
-bash <(curl -sL https://raw.githubusercontent.com/awslabs/aidlc-workflows/main/scripts/setup/setup.sh)
+bash <(curl -sL https://raw.githubusercontent.com/shyamsoundar18/aidlc-workflows/main/scripts/setup/setup.sh)
 
 # Or if you have the repo cloned:
 bash /path/to/aidlc-workflows/scripts/setup/setup.sh
